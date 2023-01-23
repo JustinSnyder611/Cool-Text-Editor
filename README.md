@@ -6,7 +6,7 @@ I learned how to use webpack and babel to create a text editor that can be used 
 
 ## Table of Contents
 
-Heroku Link: 
+Heroku Link: https://cool-text-editor123.herokuapp.com/
 
 - [Installation](#installation)
 - [Usage](#usage)
